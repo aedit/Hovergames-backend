@@ -4,5 +4,3 @@ hovergamesgroup@gmail.com
 Google password: aeditvbhv
 MongoDB Cluster password: AeditVbhv@VY27
 Heroku password: AeditVbhv@VY27
-
-Okay
