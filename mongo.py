@@ -9,7 +9,7 @@ from flask_jwt_extended import JWTManager, create_access_token
 app = Flask(__name__)
 
 app.config['MONGO_DBNAME'] = 'users'
-app.config['MONGO_URI'] = 'mongodb://vbhv98:hovergames69@ds031257.mlab.com:31257/hover-games'
+app.config['MONGO_URI'] = 'mongodb+srv://admin:admin@hovergames-inytk.gcp.mongodb.net/game'
 app.config['JWT_SECRET_KEY'] = 'secret'
 
 mongo = PyMongo(app)
